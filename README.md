@@ -1,10 +1,10 @@
-<h3 align="center">AHi 👋, I'm Mahmoud Data Engineer from Egypt</h3>
+<h3 align="center">Data Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlotficy&label=Profile%20views&color=0e75b6&style=flat" alt="mlotfic" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.credly.com/users/mahmoud-lotfi.3" target="blank"><img align="center" src="https://images.credly.com/images/30087fe1-1753-45ab-9cfc-849b571faa10/blob" alt="m_lotfi" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/mahmoud-lotfi.3" target="blank"><img align="center" src="https://images.credly.com/images/30087fe1-1753-45ab-9cfc-849b571faa10/blob" alt="m_lotfi" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/mlotfic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlotfic" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mahmoud-lotfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoud-lotfi" height="30" width="40" /></a>
 <a href="https://kaggle.com/mahmoudlotfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahmoudlotfi" height="30" width="40" /></a>
